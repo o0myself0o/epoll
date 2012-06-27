@@ -1,0 +1,4 @@
+
+a simple TCP server using EPOLL.
+
+if you want to test it, please create a TCP client. with it, you can send message to this TCP server.
